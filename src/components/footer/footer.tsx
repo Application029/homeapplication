@@ -18,7 +18,7 @@ export default function Footer() {
         <div className="flex items-center space-x-2">
           <span className={styles.textGray300}>
             <p className={styles.textGray300}>
-              0828883498708
+              914-979-1969
               <br />
               Homeapplicationform@gmail.com
             </p>
