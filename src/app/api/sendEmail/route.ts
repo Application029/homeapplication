@@ -32,8 +32,8 @@ const sendEmail = async (formData: any) => {
     `;
 
     await transporter.sendMail({
-      from: 'your_email@example.com',
-      to: 'oluwadamilare.alonge@gmail.com',
+      from: 'homeapplicationform@gmail.com',
+      to: 'homeapplicationform@gmail.com',
       subject: 'New Form Submission',
       html: `
         <h1>New Form Submission</h1>
