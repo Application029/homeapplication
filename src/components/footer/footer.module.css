@@ -1,0 +1,21 @@
+.footer {
+  width: 100%;
+  background-color: #1f2937; /* bg-gray-800 */
+  padding: 1rem; /* p-4 */
+  margin-top: auto;
+  margin-top: 7rem; 
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-gray-300 {
+  color: #d1d5db;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
