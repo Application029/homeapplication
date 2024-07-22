@@ -118,7 +118,7 @@ const FormStep3: React.FC<FormStep3Props> = ({ nextStep, prevStep }) => {
             onChange={handleChange}
             className={styles.input}
             aria-label="Supervisor's Phone"
-            pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+            pattern="1234567890"
             title="Phone number format: 1234567890"
           />
         </label>
