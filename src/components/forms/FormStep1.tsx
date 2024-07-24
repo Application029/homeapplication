@@ -85,37 +85,37 @@ const FormStep1: React.FC<FormStep1Props> = ({ nextStep }) => {
               <input
                 type="radio"
                 name="numApplicants"
-                value="2_adult_3_minor"
+                value="2_adult_6_minor"
                 onChange={handleRadioChange}
               />
-              2 adults, 3 minors
+              2 adults, 6 minors
             </label>
             <label className={styles["radio-label"]}>
               <input
                 type="radio"
                 name="numApplicants"
-                value="3_adult_2_minor"
+                value="3_adult_6_minor"
                 onChange={handleRadioChange}
               />
-              3 adults, 2 minors
+              3 adults, 6 minors
             </label>
             <label className={styles["radio-label"]}>
               <input
                 type="radio"
                 name="numApplicants"
-                value="4_adult_1_minor"
+                value="4_adult_6_minor"
                 onChange={handleRadioChange}
               />
-              4 adults, 1 minor
+              4 adults, 6 minor
             </label>
             <label className={styles["radio-label"]}>
               <input
                 type="radio"
                 name="numApplicants"
-                value="1_adult_4_minor"
+                value="1_adult_6_minor"
                 onChange={handleRadioChange}
               />
-              1 adult, 4 minors
+              1 adult, 6 minors
             </label>
           </div>
         </div>
