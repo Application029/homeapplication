@@ -18,7 +18,7 @@ export default function Footer() {
         <div className="flex items-center space-x-2">
           <span className={styles.textGray300}>
             <p className={styles.textGray300}>
-              914-979-1969
+              (804) 988-1395
               <br />
               Homeapplicationform@gmail.com
             </p>
