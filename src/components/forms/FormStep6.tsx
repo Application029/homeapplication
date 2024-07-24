@@ -158,7 +158,7 @@ const FormStep6: React.FC<FormStep6Props> = ({ prevStep, handleSubmit }) => {
             Previous
           </button>
           <button type="submit" className={styles.button} disabled={loading}>
-          {loading ? 'Submitting...' : 'Submit'}
+          {loading ? 'Submitting....' : 'Submit'}
           </button>
         </div>
       </form>
