@@ -7,8 +7,8 @@ const transporter = nodemailer.createTransport({
   port: 2525, // Your SMTP port
   secure: false, // true for 465, false for other ports
   auth: {
-    user: '2d6bab58636203', // Your email address
-    pass: '76ca0340f30c2a', // Your email password
+    user: '652a94d64d9f5d', // Your email address
+    pass: '4800917fa6a46c', // Your email password
   },
 });
 
